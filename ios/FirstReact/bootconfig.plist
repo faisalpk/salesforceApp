@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>remoteAccessConsumerKey</key>
+		<string>3MVG9N6eDmZRVJOlACAcEWSQy1LXu4L1tqtCq0jcd0lMGHUQUC17p0xlEK.f_3gvfcB2Aphq_qOHWydjhebEz</string>
+		<key>oauthRedirectURI</key>
+		<string>sfdc://screenapp-navigator.cs76.force.com/oauth/done</string>
+		<key>oauthScopes</key>
+		<array>
+			<string>web</string>
+			<string>api</string>
+		</array>
+		<key>shouldAuthenticate</key>
+		<string>false</string>
+	</dict>
+</plist>

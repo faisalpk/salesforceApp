@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9N6eDmZRVJOlACAcEWSQy1LXu4L1tqtCq0jcd0lMGHUQUC17p0xlEK.f_3gvfcB2Aphq_qOHWydjhebEz</string>
+    <string name="oauthRedirectURI">sfdc://screenapp-navigator.cs76.force.com/oauth/done</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+        <item>web</item>
+    </string-array>
+    <string name="androidPushNotificationClientId"></string>
+</resources>
